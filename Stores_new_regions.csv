@@ -1,0 +1,541 @@
+,store_code,location,business_network,total_surface,sales_surface,stock_surface,Nouvelle_R?gion
+0,B001,Centre Ville,Succursale,151.0,121.0,30.0,Occitanie
+1,B004,Centre Commercial,Succursale,151.0,121.0,30.0,Occitanie
+2,B014,Centre Commercial,Succursale,146.0,115.0,31.0,Occitanie
+3,B077,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Occitanie
+4,B114,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Occitanie
+5,B138,Centre Commercial,Succursale,120.0,105.0,15.0,Occitanie
+6,B143,Centre Ville,Succursale,323.0,279.0,44.0,Occitanie
+7,B428,Grand Magasin,Grand Magasin,56.0,56.0,0.0,Occitanie
+8,B868,Centre Commercial,Affili?,129.0,107.0,22.0,Occitanie
+9,B002,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+10,B008,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+11,B010,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+12,B017,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+13,B020,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+14,B026,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+15,B027,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+16,B037,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+17,B039,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+18,B040,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+19,B053,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+20,B056,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+21,B058,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+22,B061,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+23,B064,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+24,B066,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+25,B067,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+26,B069,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+27,B071,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+28,B072,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+29,B076,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+30,B078,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+31,B079,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+32,B080,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+33,B081,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+34,B085,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+35,B093,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+36,B097,Centre Ville,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Aucune
+37,B098,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+38,B101,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+39,B102,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+40,B115,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Aucune
+41,B406,Centre Commercial,Grand Magasin,62.81012658227848,62.46835443037975,0.34177215189873417,Aucune
+42,B506,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+43,B509,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+44,B511,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+45,B513,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+46,B516,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+47,B517,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+48,B521,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+49,B523,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+50,B524,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+51,B525,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+52,B533,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+53,B536,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+54,B538,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+55,B540,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+56,B541,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+57,B543,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+58,B544,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+59,B546,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+60,B547,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+61,B548,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+62,B550,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+63,B553,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+64,B555,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+65,B556,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+66,B558,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+67,B565,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+68,B572,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+69,B573,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Aucune
+70,B003,Centre Ville,Succursale,45.0,45.0,0.0,Ile-de-France
+71,B009,Centre Ville,Succursale,127.0,59.0,68.0,Ile-de-France
+72,B013,Centre Ville,Succursale,570.0,290.0,280.0,Ile-de-France
+73,B015,Centre Ville,Succursale,84.0,84.0,0.0,Ile-de-France
+74,B016,Centre Ville,Succursale,112.0,80.0,32.0,Ile-de-France
+75,B018,Centre Ville,Succursale,111.0,52.0,59.0,Ile-de-France
+76,B029,Centre Ville,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Ile-de-France
+77,B030,Centre Ville,Stock,95.0,36.0,59.0,Ile-de-France
+78,B031,Centre Ville,Stock,80.0,80.0,0.0,Ile-de-France
+79,B035,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+80,B041,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+81,B087,Centre Ville,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Ile-de-France
+82,B104,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+83,B119,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+84,B120,Centre Ville,Succursale,234.0,154.0,80.0,Ile-de-France
+85,B122,Centre Ville,Succursale,145.0,90.0,55.0,Ile-de-France
+86,B127,Centre Commercial,Succursale,98.0,95.0,3.0,Ile-de-France
+87,B132,Centre Ville,Succursale,280.0,212.0,68.0,Ile-de-France
+88,B134,Centre Ville,Succursale,470.0,470.0,0.0,Ile-de-France
+89,B135,Centre Ville,Succursale,241.0,160.0,81.0,Ile-de-France
+90,B401,Grand Magasin,Grand Magasin,97.0,97.0,0.0,Ile-de-France
+91,B402,Grand Magasin,Grand Magasin,80.0,80.0,0.0,Ile-de-France
+92,B403,Grand Magasin,Grand Magasin,36.0,36.0,0.0,Ile-de-France
+93,B404,Grand Magasin,Grand Magasin,65.0,65.0,0.0,Ile-de-France
+94,B416,Grand Magasin,Grand Magasin,108.0,108.0,0.0,Ile-de-France
+95,B432,Grand Magasin,Grand Magasin,152.0,152.0,0.0,Ile-de-France
+96,B435,Grand Magasin,Grand Magasin,73.0,73.0,0.0,Ile-de-France
+97,B562,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+98,B563,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+99,B590,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+100,B716,Centre Ville,Succursale,167.0,110.0,57.0,Ile-de-France
+101,B723,Centre Ville,Succursale,455.0,268.0,187.0,Ile-de-France
+102,B755,Centre Commercial,Succursale,151.56441717791412,140.0,41.22085889570552,Ile-de-France
+103,B765,Centre Ville,Succursale,102.0,80.0,22.0,Ile-de-France
+104,B771,Centre Ville,Succursale,173.0,113.0,60.0,Ile-de-France
+105,B776,Centre Ville,Succursale,192.0,104.0,88.0,Ile-de-France
+106,B778,Centre Ville,Succursale,125.0,75.0,50.0,Ile-de-France
+107,B784,Centre Ville,Succursale,107.0,66.0,41.0,Ile-de-France
+108,B788,Centre Ville,Succursale,348.0,250.0,98.0,Ile-de-France
+109,B792,Centre Ville,Succursale,110.0,110.0,0.0,Ile-de-France
+110,B817,Grand Magasin,Grand Magasin,51.0,51.0,0.0,Ile-de-France
+111,B872,Centre Ville,Stock,103.0,103.0,0.0,Ile-de-France
+112,B907,e-Boutique,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+113,BVAD,Web,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+114,B005,Centre Ville,Succursale,122.0,77.0,45.0,Bourgogne-Franche-Comt?
+115,B571,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bourgogne-Franche-Comt?
+116,B621,Centre Ville,Affili?,111.0,80.0,31.0,Bourgogne-Franche-Comt?
+117,B830,Grand Magasin,Grand Magasin,46.0,46.0,0.0,Bourgogne-Franche-Comt?
+118,B864,Centre Ville,Affili?,112.0,92.0,20.0,Bourgogne-Franche-Comt?
+119,B006,Centre Commercial,Succursale,90.0,78.0,12.0,Nouvelle-Aquitaine
+120,B121,Centre Ville,Succursale,183.0,102.0,81.0,Nouvelle-Aquitaine
+121,B133,Centre Commercial,Succursale,161.0,113.0,48.0,Nouvelle-Aquitaine
+122,B576,Centre Ville,Affili?,48.0,48.0,0.0,Nouvelle-Aquitaine
+123,B622,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Nouvelle-Aquitaine
+124,B719,Centre Commercial,Succursale,197.0,160.0,37.0,Nouvelle-Aquitaine
+125,B757,Centre Ville,Succursale,77.0,43.0,34.0,Nouvelle-Aquitaine
+126,B822,Grand Magasin,Grand Magasin,70.0,70.0,0.0,Nouvelle-Aquitaine
+127,B826,Grand Magasin,Grand Magasin,79.0,79.0,0.0,Nouvelle-Aquitaine
+128,B833,Grand Magasin,Grand Magasin,73.0,73.0,0.0,Nouvelle-Aquitaine
+129,B007,Centre Commercial,Succursale,95.0,95.0,0.0,Provence-Alpes-C?te d'Azur
+130,B034,Centre Commercial,Succursale,55.0,55.0,0.0,Provence-Alpes-C?te d'Azur
+131,B046,Centre Ville,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Provence-Alpes-C?te d'Azur
+132,B140,Centre Ville,Succursale,142.0,100.0,42.0,Provence-Alpes-C?te d'Azur
+133,B412,Grand Magasin,Grand Magasin,88.0,88.0,0.0,Provence-Alpes-C?te d'Azur
+134,B419,Grand Magasin,Grand Magasin,70.0,70.0,0.0,Provence-Alpes-C?te d'Azur
+135,B586,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Provence-Alpes-C?te d'Azur
+136,B594,Centre Commercial,Affili?,58.0,58.0,0.0,Provence-Alpes-C?te d'Azur
+137,B607,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Provence-Alpes-C?te d'Azur
+138,B611,Centre Ville,Affili?,106.0,71.0,35.0,Provence-Alpes-C?te d'Azur
+139,B635,Centre Ville,Affili?,97.0,82.0,15.0,Provence-Alpes-C?te d'Azur
+140,B731,Centre Commercial,Succursale,144.0,111.0,33.0,Provence-Alpes-C?te d'Azur
+141,B746,Centre Commercial,Succursale,145.0,122.0,23.0,Provence-Alpes-C?te d'Azur
+142,B793,Centre Ville,Succursale,160.0,160.0,0.0,Provence-Alpes-C?te d'Azur
+143,B828,Grand Magasin,Grand Magasin,90.0,90.0,0.0,Provence-Alpes-C?te d'Azur
+144,B831,Grand Magasin,Grand Magasin,54.0,54.0,0.0,Provence-Alpes-C?te d'Azur
+145,B011,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Hauts-de-France
+146,B561,Centre Ville,Affili?,75.0,60.0,15.0,Hauts-de-France
+147,B707,Centre Ville,Succursale,370.0,170.0,200.0,Hauts-de-France
+148,B790,Centre Ville,Succursale,96.0,96.0,0.0,Hauts-de-France
+149,B814,Grand Magasin,Grand Magasin,40.0,40.0,0.0,Hauts-de-France
+150,B012,Centre Ville,Succursale,66.0,60.0,6.0,Normandie
+151,B677,Centre Ville,Affili?,71.0,71.0,0.0,Normandie
+152,B019,Centre Commercial,Succursale,94.0,94.0,0.0,Provence-Alpes-C?te d'Azur
+153,B409,Grand Magasin,Grand Magasin,63.0,63.0,0.0,Provence-Alpes-C?te d'Azur
+154,B589,Centre Ville,Affili?,114.0,80.0,34.0,Provence-Alpes-C?te d'Azur
+155,B645,Centre Ville,Affili?,64.0,62.0,2.0,Provence-Alpes-C?te d'Azur
+156,B668,Centre Ville,Affili?,30.0,30.0,0.0,Provence-Alpes-C?te d'Azur
+157,B760,Centre Commercial,Succursale,99.0,90.0,9.0,Provence-Alpes-C?te d'Azur
+158,B808,Grand Magasin,Grand Magasin,56.0,56.0,0.0,Provence-Alpes-C?te d'Azur
+159,B856,Centre Ville,Affili?,93.0,73.0,20.0,Provence-Alpes-C?te d'Azur
+160,B021,Centre Commercial,Succursale,161.0,161.0,0.0,Ile-de-France
+161,B022,Centre Ville,Succursale,100.0,65.0,35.0,Ile-de-France
+162,B033,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+163,B048,Centre Commercial,Succursale,108.0,88.0,20.0,Ile-de-France
+164,B049,Centre Commercial,Succursale,130.0,110.0,20.0,Ile-de-France
+165,B083,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+166,B148,Centre Commercial,Succursale,178.0,153.0,25.0,Ile-de-France
+167,B413,Grand Magasin,Grand Magasin,73.0,73.0,0.0,Ile-de-France
+168,B422,Grand Magasin,Grand Magasin,60.0,60.0,0.0,Ile-de-France
+169,B656,Centre Ville,Affili?,90.0,75.0,15.0,Ile-de-France
+170,B684,Centre Ville,Affili?,72.0,57.0,15.0,Ile-de-France
+171,B713,Centre Ville,Succursale,145.0,105.0,40.0,Ile-de-France
+172,B750,Centre Commercial,Succursale,102.0,92.0,10.0,Ile-de-France
+173,B787,Centre Commercial,Stock,125.0,99.0,26.0,Ile-de-France
+174,B823,Grand Magasin,Grand Magasin,46.0,46.0,0.0,Ile-de-France
+175,B023,Centre Ville,Succursale,106.0,56.0,50.0,Normandie
+176,B427,Grand Magasin,Grand Magasin,72.0,72.0,0.0,Normandie
+177,B442,Grand Magasin,Grand Magasin,70.0,70.0,0.0,Normandie
+178,B443,Grand Magasin,Grand Magasin,60.0,60.0,0.0,Normandie
+179,B591,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Normandie
+180,B651,Centre Ville,Affili?,96.0,88.0,8.0,Normandie
+181,B732,Centre Ville,Succursale,97.0,83.0,14.0,Normandie
+182,B795,Centre Ville,Succursale,306.0,160.0,146.0,Normandie
+183,B024,Centre Ville,Succursale,108.0,58.0,50.0,Provence-Alpes-C?te d'Azur
+184,B025,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Provence-Alpes-C?te d'Azur
+185,B118,Centre Commercial,Succursale,85.0,65.0,20.0,Provence-Alpes-C?te d'Azur
+186,B421,Grand Magasin,Grand Magasin,57.0,57.0,0.0,Provence-Alpes-C?te d'Azur
+187,B426,Grand Magasin,Grand Magasin,63.0,63.0,0.0,Provence-Alpes-C?te d'Azur
+188,B440,Grand Magasin,Grand Magasin,50.0,50.0,0.0,Provence-Alpes-C?te d'Azur
+189,B505,Centre Commercial,Affili?,87.0,69.0,18.0,Provence-Alpes-C?te d'Azur
+190,B519,Centre Commercial,Affili?,98.0,83.0,15.0,Provence-Alpes-C?te d'Azur
+191,B583,Centre Ville,Affili?,75.0,60.0,15.0,Provence-Alpes-C?te d'Azur
+192,B614,Centre Commercial,Affili?,130.0,110.0,20.0,Provence-Alpes-C?te d'Azur
+193,B643,Centre Ville,Affili?,105.0,85.0,20.0,Provence-Alpes-C?te d'Azur
+194,B703,Centre Ville,Succursale,120.0,96.0,24.0,Provence-Alpes-C?te d'Azur
+195,B739,Centre Commercial,Succursale,176.0,104.0,72.0,Provence-Alpes-C?te d'Azur
+196,B770,Centre Ville,Succursale,132.0,93.0,39.0,Provence-Alpes-C?te d'Azur
+197,B783,Centre Ville,Succursale,234.0,160.0,74.0,Provence-Alpes-C?te d'Azur
+198,B785,Centre Commercial,Succursale,137.0,137.0,0.0,Provence-Alpes-C?te d'Azur
+199,B798,Centre Commercial,Succursale,101.0,101.0,0.0,Provence-Alpes-C?te d'Azur
+200,B834,Grand Magasin,Grand Magasin,73.0,73.0,0.0,Provence-Alpes-C?te d'Azur
+201,B028,Centre Commercial,Succursale,304.0,104.0,200.0,Ile-de-France
+202,B669,Centre Ville,Affili?,98.0,68.0,30.0,Ile-de-France
+203,B705,Centre Commercial,Succursale,124.0,112.0,12.0,Ile-de-France
+204,B736,Centre Commercial,Succursale,131.0,121.0,10.0,Ile-de-France
+205,B743,Centre Commercial,Succursale,149.0,122.0,27.0,Ile-de-France
+206,B904,e-Boutique,Grand Magasin,62.81012658227848,62.46835443037975,0.34177215189873417,Ile-de-France
+207,B032,Centre Commercial,Succursale,142.0,142.0,0.0,Ile-de-France
+208,B038,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+209,B096,Centre Commercial,Succursale,113.0,95.0,18.0,Ile-de-France
+210,B125,Centre Commercial,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Ile-de-France
+211,B552,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+212,B704,Centre Commercial,Stock,145.0,120.0,25.0,Ile-de-France
+213,B733,Centre Commercial,Stock,250.0,217.0,33.0,Ile-de-France
+214,B036,Centre Commercial,Succursale,94.0,82.0,12.0,Ile-de-France
+215,B051,Centre Commercial,Succursale,98.0,84.0,14.0,Ile-de-France
+216,B433,Grand Magasin,Grand Magasin,50.0,50.0,0.0,Ile-de-France
+217,B745,Centre Commercial,Succursale,150.0,134.0,16.0,Ile-de-France
+218,B789,Centre Commercial,Stock,166.0,142.0,24.0,Ile-de-France
+219,B042,Centre Commercial,Succursale,146.0,146.0,0.0,Bretagne
+220,B439,Grand Magasin,Grand Magasin,46.0,46.0,0.0,Bretagne
+221,B446,Grand Magasin,Grand Magasin,73.0,73.0,0.0,Bretagne
+222,B527,Centre Commercial,Affili?,48.0,48.0,0.0,Bretagne
+223,B528,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+224,B531,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+225,B532,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+226,B587,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+227,B632,Centre Ville,Affili?,115.0,115.0,0.0,Bretagne
+228,B658,Centre Ville,Affili?,78.0,69.0,9.0,Bretagne
+229,B689,Centre Ville,Affili?,70.0,47.0,23.0,Bretagne
+230,B727,Centre Commercial,Succursale,96.0,76.0,20.0,Bretagne
+231,B728,Centre Commercial,Succursale,68.0,58.0,10.0,Bretagne
+232,B742,Centre Commercial,Succursale,87.0,79.0,8.0,Bretagne
+233,B775,Centre Ville,Succursale,205.0,90.0,115.0,Bretagne
+234,B043,Centre Ville,Succursale,62.0,62.0,0.0,Ile-de-France
+235,B063,Centre Commercial,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Ile-de-France
+236,B065,Centre Ville,Succursale,56.0,38.0,18.0,Ile-de-France
+237,B117,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+238,B526,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+239,B564,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+240,B624,Centre Commercial,Affili?,106.0,106.0,0.0,Ile-de-France
+241,B737,Centre Ville,Succursale,238.0,143.0,95.0,Ile-de-France
+242,B764,Centre Commercial,Succursale,143.0,106.0,37.0,Ile-de-France
+243,B799,Centre Ville,Succursale,230.0,82.0,148.0,Ile-de-France
+244,B869,Centre Ville,Affili?,83.0,74.0,9.0,Ile-de-France
+245,B871,Centre Ville,Affili?,80.0,63.0,17.0,Ile-de-France
+246,B903,e-Boutique,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Ile-de-France
+247,B045,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+248,B090,Centre Commercial,Succursale,78.0,68.0,10.0,Ile-de-France
+249,B110,Centre Commercial,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Ile-de-France
+250,B112,Centre Commercial,Succursale,90.0,75.0,15.0,Ile-de-France
+251,B146,Centre Commercial,Stock,218.0,178.0,40.0,Ile-de-France
+252,B405,Grand Magasin,Grand Magasin,41.0,39.0,2.0,Ile-de-France
+253,B530,Centre Commercial,Affili?,59.0,59.0,0.0,Ile-de-France
+254,B712,Centre Commercial,Succursale,190.0,190.0,0.0,Ile-de-France
+255,B779,Centre Commercial,Succursale,186.0,128.0,58.0,Ile-de-France
+256,B806,Grand Magasin,Grand Magasin,84.0,84.0,0.0,Ile-de-France
+257,B047,Centre Commercial,Succursale,217.0,156.0,61.0,Ile-de-France
+258,B054,Centre Ville,Succursale,82.0,53.0,29.0,Ile-de-France
+259,B082,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Ile-de-France
+260,B130,Centre Commercial,Succursale,78.0,78.0,0.0,Ile-de-France
+261,B131,Centre Commercial,Succursale,250.0,230.0,20.0,Ile-de-France
+262,B142,Centre Commercial,Succursale,95.0,84.0,11.0,Ile-de-France
+263,B407,Grand Magasin,Grand Magasin,32.0,30.0,2.0,Ile-de-France
+264,B408,Grand Magasin,Grand Magasin,33.0,33.0,0.0,Ile-de-France
+265,B615,Centre Ville,Affili?,159.0,94.0,65.0,Ile-de-France
+266,B801,Grand Magasin,Grand Magasin,86.0,86.0,0.0,Ile-de-France
+267,B050,Centre Ville,Succursale,139.0,116.0,23.0,Auvergne-Rh?ne-Alpes
+268,B099,Centre Commercial,Succursale,146.0,122.0,24.0,Auvergne-Rh?ne-Alpes
+269,B410,Grand Magasin,Grand Magasin,56.0,56.0,0.0,Auvergne-Rh?ne-Alpes
+270,B411,Grand Magasin,Grand Magasin,102.0,87.0,15.0,Auvergne-Rh?ne-Alpes
+271,B415,Grand Magasin,Grand Magasin,60.0,60.0,0.0,Auvergne-Rh?ne-Alpes
+272,B504,Centre Ville,Affili?,205.0,182.0,23.0,Auvergne-Rh?ne-Alpes
+273,B518,Centre Ville,Affili?,104.0,104.0,0.0,Auvergne-Rh?ne-Alpes
+274,B595,Centre Ville,Affili?,113.0,97.0,16.0,Auvergne-Rh?ne-Alpes
+275,B606,Centre Ville,Affili?,140.0,140.0,0.0,Auvergne-Rh?ne-Alpes
+276,B652,Centre Ville,Affili?,149.0,109.0,40.0,Auvergne-Rh?ne-Alpes
+277,B678,Centre Ville,Affili?,139.0,116.0,23.0,Auvergne-Rh?ne-Alpes
+278,B687,Centre Ville,Affili?,183.0,126.0,57.0,Auvergne-Rh?ne-Alpes
+279,B735,Centre Commercial,Succursale,173.0,149.0,24.0,Auvergne-Rh?ne-Alpes
+280,B782,Centre Ville,Succursale,187.0,120.0,67.0,Auvergne-Rh?ne-Alpes
+281,B073,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Bretagne
+282,B074,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Bretagne
+283,B075,Centre Commercial,Succursale,140.0,110.0,30.0,Bretagne
+284,B124,Centre Ville,Succursale,127.0,90.0,37.0,Bretagne
+285,B150,Centre Commercial,Succursale,96.0,90.0,6.0,Bretagne
+286,B520,Centre Ville,Affili?,62.0,62.0,0.0,Bretagne
+287,B662,Centre Ville,Affili?,76.0,64.0,12.0,Bretagne
+288,B709,Centre Ville,Succursale,193.0,110.0,83.0,Bretagne
+289,B802,Grand Magasin,Grand Magasin,53.0,45.0,8.0,Bretagne
+290,B084,Centre Commercial,Succursale,54.0,43.0,11.0,Pays-de-la-Loire
+291,B424,Grand Magasin,Grand Magasin,43.0,43.0,0.0,Pays-de-la-Loire
+292,B686,Centre Ville,Affili?,110.0,60.0,50.0,Pays-de-la-Loire
+293,B741,Centre Commercial,Succursale,115.0,102.0,13.0,Pays-de-la-Loire
+294,B752,Centre Ville,Succursale,127.0,84.0,43.0,Pays-de-la-Loire
+295,B772,Centre Commercial,Stock,123.0,103.0,20.0,Pays-de-la-Loire
+296,B086,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Pays-de-la-Loire
+297,B126,Centre Ville,Succursale,206.0,85.0,121.0,Pays-de-la-Loire
+298,B431,Grand Magasin,Grand Magasin,72.0,72.0,0.0,Pays-de-la-Loire
+299,B534,Centre Commercial,Affili?,56.0,56.0,0.0,Pays-de-la-Loire
+300,B596,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Pays-de-la-Loire
+301,B600,Centre Commercial,Affili?,70.0,70.0,0.0,Pays-de-la-Loire
+302,B604,Centre Ville,Affili?,96.0,96.0,0.0,Pays-de-la-Loire
+303,B647,Centre Ville,Affili?,110.0,96.0,14.0,Pays-de-la-Loire
+304,B722,Centre Commercial,Succursale,140.0,120.0,20.0,Pays-de-la-Loire
+305,B761,Centre Commercial,Succursale,94.0,84.0,10.0,Pays-de-la-Loire
+306,B763,Centre Commercial,Succursale,127.0,102.0,25.0,Pays-de-la-Loire
+307,B088,Centre Ville,Succursale,55.0,55.0,0.0,Bretagne
+308,B089,Centre Commercial,Succursale,64.0,54.0,10.0,Bretagne
+309,B108,Centre Commercial,Succursale,88.0,81.0,7.0,Bretagne
+310,B756,Centre Ville,Succursale,113.0,97.0,16.0,Bretagne
+311,B777,Centre Ville,Succursale,142.0,70.0,72.0,Bretagne
+312,B810,Grand Magasin,Grand Magasin,43.0,43.0,0.0,Bretagne
+313,B873,Centre Ville,Affili?,91.0,63.0,28.0,Bretagne
+314,B091,Centre Commercial,Succursale,80.0,68.0,12.0,Hauts-de-France
+315,B128,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Hauts-de-France
+316,B136,Centre Ville,Succursale,167.0,82.0,85.0,Hauts-de-France
+317,B144,Centre Ville,Succursale,316.0,190.0,126.0,Hauts-de-France
+318,B147,Centre Commercial,Stock,233.0,170.0,63.0,Hauts-de-France
+319,B414,Grand Magasin,Grand Magasin,105.0,105.0,0.0,Hauts-de-France
+320,B542,Centre Ville,Affili?,75.0,75.0,0.0,Hauts-de-France
+321,B648,Centre Ville,Affili?,95.0,70.0,25.0,Hauts-de-France
+322,B796,Centre Ville,Succursale,120.0,120.0,0.0,Hauts-de-France
+323,B805,Grand Magasin,Grand Magasin,76.0,76.0,0.0,Hauts-de-France
+324,B092,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Hauts-de-France
+325,B593,Centre Ville,Affili?,232.0,114.0,118.0,Hauts-de-France
+326,B781,Centre Ville,Succursale,106.0,87.0,19.0,Hauts-de-France
+327,B094,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Grand-Est
+328,B129,Centre Commercial,Succursale,93.0,90.0,3.0,Grand-Est
+329,B418,Grand Magasin,Grand Magasin,62.0,62.0,0.0,Grand-Est
+330,B680,Centre Ville,Affili?,87.0,80.0,7.0,Grand-Est
+331,B751,Centre Ville,Succursale,137.0,110.0,27.0,Grand-Est
+332,B095,Centre Ville,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Centre-Val de Loire
+333,B681,Centre Ville,Affili?,161.0,77.0,84.0,Centre-Val de Loire
+334,B100,Centre Ville,Stock,164.42857142857142,136.57142857142858,27.857142857142858,Grand-Est
+335,B420,Grand Magasin,Grand Magasin,62.0,62.0,0.0,Grand-Est
+336,B630,Centre Ville,Affili?,150.0,132.0,18.0,Grand-Est
+337,B650,Centre Ville,Affili?,100.23287671232876,81.0,16.897260273972602,Grand-Est
+338,B804,Grand Magasin,Grand Magasin,62.0,62.0,0.0,Grand-Est
+339,B862,Centre Ville,Affili?,90.0,81.0,9.0,Grand-Est
+340,B103,Centre Ville,Succursale,92.0,64.0,28.0,Grand-Est
+341,B109,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Grand-Est
+342,B417,Grand Magasin,Grand Magasin,59.0,59.0,0.0,Grand-Est
+343,B441,Grand Magasin,Grand Magasin,54.0,54.0,0.0,Grand-Est
+344,B539,Centre Ville,Affili?,120.0,120.0,0.0,Grand-Est
+345,B718,Centre Commercial,Succursale,205.0,170.0,35.0,Grand-Est
+346,B766,Centre Commercial,Succursale,165.0,150.0,15.0,Grand-Est
+347,B857,Centre Ville,Affili?,63.0,52.0,11.0,Grand-Est
+348,B105,Centre Commercial,Stock,200.0,188.0,12.0,Grand-Est
+349,B769,Centre Ville,Succursale,179.0,108.0,71.0,Grand-Est
+350,B773,Centre Commercial,Stock,219.0,185.0,34.0,Grand-Est
+351,B106,Centre Commercial,Succursale,136.0,126.0,10.0,Provence-Alpes-C?te d'Azur
+352,B725,Centre Ville,Succursale,132.0,84.0,48.0,Provence-Alpes-C?te d'Azur
+353,B730,Centre Commercial,Succursale,139.0,125.0,14.0,Provence-Alpes-C?te d'Azur
+354,B794,Centre Ville,Succursale,114.0,114.0,0.0,Provence-Alpes-C?te d'Azur
+355,B107,Centre Ville,Succursale,110.0,70.0,40.0,Nouvelle-Aquitaine
+356,B811,Grand Magasin,Grand Magasin,70.0,70.0,0.0,Nouvelle-Aquitaine
+357,B111,Centre Ville,Succursale,258.0,138.0,120.0,Grand-Est
+358,B434,Grand Magasin,Grand Magasin,58.0,58.0,0.0,Grand-Est
+359,B113,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Grand-Est
+360,B570,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Grand-Est
+361,B633,Centre Ville,Affili?,87.0,87.0,0.0,Grand-Est
+362,B720,Centre Ville,Succursale,120.0,90.0,30.0,Grand-Est
+363,B767,Centre Ville,Succursale,118.0,72.0,46.0,Grand-Est
+364,B116,Centre Commercial,Succursale,151.56441717791412,110.52439024390245,41.22085889570552,Nouvelle-Aquitaine
+365,B141,Centre Ville,Succursale,226.0,112.0,114.0,Nouvelle-Aquitaine
+366,B423,Centre Commercial,Grand Magasin,62.81012658227848,62.46835443037975,0.34177215189873417,Nouvelle-Aquitaine
+367,B438,Grand Magasin,Grand Magasin,63.0,63.0,0.0,Nouvelle-Aquitaine
+368,B653,Centre Ville,Affili?,53.0,53.0,0.0,Nouvelle-Aquitaine
+369,B702,Centre Commercial,Succursale,219.0,190.0,29.0,Nouvelle-Aquitaine
+370,B721,Centre Commercial,Succursale,120.0,100.0,20.0,Nouvelle-Aquitaine
+371,B754,Centre Commercial,Succursale,107.0,92.0,15.0,Nouvelle-Aquitaine
+372,B774,Centre Ville,Succursale,56.0,53.0,3.0,Nouvelle-Aquitaine
+373,B786,Centre Ville,Succursale,120.0,120.0,0.0,Nouvelle-Aquitaine
+374,B821,Grand Magasin,Grand Magasin,49.0,49.0,0.0,Nouvelle-Aquitaine
+375,B123,Centre Ville,Succursale,74.0,74.0,0.0,Auvergne-Rh?ne-Alpes
+376,B425,Grand Magasin,Grand Magasin,72.0,72.0,0.0,Auvergne-Rh?ne-Alpes
+377,B580,Centre Ville,Affili?,35.0,35.0,0.0,Auvergne-Rh?ne-Alpes
+378,B634,Centre Ville,Affili?,97.0,73.0,24.0,Auvergne-Rh?ne-Alpes
+379,B749,Centre Ville,Succursale,174.0,147.0,27.0,Auvergne-Rh?ne-Alpes
+380,B762,Centre Ville,Stock,74.0,74.0,0.0,Auvergne-Rh?ne-Alpes
+381,B780,Centre Ville,Succursale,59.0,44.0,15.0,Auvergne-Rh?ne-Alpes
+382,B137,Centre Ville,Succursale,136.0,96.0,40.0,Hauts-de-France
+383,B577,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Hauts-de-France
+384,B601,Centre Ville,Affili?,70.0,64.0,6.0,Hauts-de-France
+385,B609,Centre Ville,Affili?,116.0,112.0,4.0,Hauts-de-France
+386,B670,Centre Ville,Affili?,114.0,87.0,27.0,Hauts-de-France
+387,B673,Centre Ville,Affili?,103.0,93.0,10.0,Hauts-de-France
+388,B698,Centre Ville,Affili?,65.0,59.0,6.0,Hauts-de-France
+389,B139,Centre Commercial,Succursale,121.0,117.0,4.0,Auvergne-Rh?ne-Alpes
+390,B429,Grand Magasin,Grand Magasin,47.0,47.0,0.0,Auvergne-Rh?ne-Alpes
+391,B145,Centre Commercial,Stock,271.0,217.0,54.0,Auvergne-Rh?ne-Alpes
+392,B568,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Auvergne-Rh?ne-Alpes
+393,B666,Centre Ville,Affili?,90.0,71.0,19.0,Auvergne-Rh?ne-Alpes
+394,B715,Centre Ville,Succursale,335.0,120.0,215.0,Auvergne-Rh?ne-Alpes
+395,B430,Grand Magasin,Grand Magasin,49.0,49.0,0.0,Occitanie
+396,B603,Centre Ville,Affili?,102.0,102.0,0.0,Occitanie
+397,B667,Centre Commercial,Affili?,128.0,108.0,20.0,Occitanie
+398,B734,Centre Commercial,Succursale,156.0,121.0,35.0,Occitanie
+399,B747,Centre Ville,Succursale,121.0,102.0,19.0,Occitanie
+400,B803,Grand Magasin,Grand Magasin,51.0,51.0,0.0,Occitanie
+401,B436,Grand Magasin,Grand Magasin,40.0,40.0,0.0,Nouvelle-Aquitaine
+402,B708,Centre Ville,Succursale,191.0,110.0,81.0,Nouvelle-Aquitaine
+403,B437,Grand Magasin,Grand Magasin,50.0,50.0,0.0,Centre-Val de Loire
+404,B610,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Centre-Val de Loire
+405,B724,Centre Ville,Succursale,131.0,97.0,34.0,Centre-Val de Loire
+406,B726,Centre Commercial,Succursale,144.0,121.0,23.0,Centre-Val de Loire
+407,B818,Grand Magasin,Grand Magasin,97.0,97.0,0.0,Centre-Val de Loire
+408,B444,Grand Magasin,Grand Magasin,27.0,27.0,0.0,Normandie
+409,B445,Grand Magasin,Grand Magasin,50.0,50.0,0.0,Normandie
+410,B599,Centre Ville,Affili?,84.0,84.0,0.0,Normandie
+411,B740,Centre Ville,Succursale,160.0,122.0,38.0,Normandie
+412,B758,Centre Commercial,Succursale,78.0,68.0,10.0,Normandie
+413,B819,Grand Magasin,Grand Magasin,37.0,37.0,0.0,Normandie
+414,B447,Grand Magasin,Grand Magasin,68.0,68.0,0.0,Occitanie
+415,B569,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Occitanie
+416,B448,Grand Magasin,Grand Magasin,67.0,67.0,0.0,Auvergne-Rh?ne-Alpes
+417,B582,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Auvergne-Rh?ne-Alpes
+418,B664,Centre Ville,Affili?,101.0,79.0,22.0,Auvergne-Rh?ne-Alpes
+419,B714,Centre Ville,Succursale,214.0,120.0,94.0,Auvergne-Rh?ne-Alpes
+420,B866,Centre Ville,Affili?,95.0,76.0,19.0,Auvergne-Rh?ne-Alpes
+421,B449,Grand Magasin,Grand Magasin,38.0,38.0,0.0,Auvergne-Rh?ne-Alpes
+422,B503,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Auvergne-Rh?ne-Alpes
+423,B535,Centre Ville,Affili?,93.0,88.0,5.0,Auvergne-Rh?ne-Alpes
+424,B537,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Auvergne-Rh?ne-Alpes
+425,B598,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Auvergne-Rh?ne-Alpes
+426,B627,Centre Ville,Affili?,153.0,153.0,0.0,Auvergne-Rh?ne-Alpes
+427,B638,Centre Ville,Affili?,70.0,67.0,3.0,Auvergne-Rh?ne-Alpes
+428,B695,Centre Ville,Affili?,98.0,80.0,18.0,Auvergne-Rh?ne-Alpes
+429,B717,Centre Commercial,Succursale,180.0,150.0,30.0,Auvergne-Rh?ne-Alpes
+430,B753,Centre Ville,Succursale,178.0,143.0,35.0,Auvergne-Rh?ne-Alpes
+431,B450,Grand Magasin,Grand Magasin,78.0,78.0,0.0,Occitanie
+432,B557,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Occitanie
+433,B863,Centre Commercial,Affili?,109.0,109.0,0.0,Occitanie
+434,B502,Centre Ville,Affili?,83.0,83.0,0.0,Bourgogne-Franche-Comt?
+435,B514,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bourgogne-Franche-Comt?
+436,B628,Centre Commercial,Succursale,86.0,86.0,0.0,Bourgogne-Franche-Comt?
+437,B738,Centre Ville,Succursale,110.0,83.0,27.0,Bourgogne-Franche-Comt?
+438,B748,Centre Commercial,Succursale,100.0,86.0,14.0,Bourgogne-Franche-Comt?
+439,B791,Centre Ville,Succursale,131.0,90.0,41.0,Bourgogne-Franche-Comt?
+440,B816,Grand Magasin,Grand Magasin,65.0,65.0,0.0,Bourgogne-Franche-Comt?
+441,B508,Centre Ville,Affili?,100.0,100.0,0.0,Nouvelle-Aquitaine
+442,B549,Centre Ville,Affili?,100.0,100.0,0.0,Nouvelle-Aquitaine
+443,B639,Centre Ville,Affili?,100.23287671232876,100.0,16.897260273972602,Nouvelle-Aquitaine
+444,B644,Centre Ville,Affili?,105.0,85.0,20.0,Nouvelle-Aquitaine
+445,B646,Centre Ville,Affili?,124.0,104.0,20.0,Nouvelle-Aquitaine
+446,B691,Centre Ville,Affili?,123.0,89.0,34.0,Nouvelle-Aquitaine
+447,B510,Centre Ville,Affili?,70.0,70.0,0.0,Occitanie
+448,B690,Centre Ville,Affili?,61.0,61.0,0.0,Occitanie
+449,B512,Centre Ville,Affili?,95.0,79.0,16.0,Normandie
+450,B672,Centre Ville,Affili?,115.0,100.0,15.0,Normandie
+451,B515,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+452,B529,Centre Ville,Affili?,48.0,48.0,0.0,Bretagne
+453,B559,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bretagne
+454,B605,Centre Commercial,Affili?,87.0,78.0,9.0,Bretagne
+455,B618,Centre Ville,Affili?,61.0,61.0,0.0,Bretagne
+456,B626,Centre Ville,Affili?,79.0,79.0,0.0,Bretagne
+457,B642,Centre Ville,Affili?,87.0,77.0,10.0,Bretagne
+458,B654,Centre Ville,Affili?,109.0,92.0,17.0,Bretagne
+459,B692,Centre Ville,Affili?,138.0,72.0,66.0,Bretagne
+460,B699,Centre Ville,Affili?,64.0,56.0,8.0,Bretagne
+461,B522,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bourgogne-Franche-Comt?
+462,B616,Centre Ville,Affili?,160.0,111.0,49.0,Bourgogne-Franche-Comt?
+463,B545,Centre Ville,Affili?,102.0,82.0,20.0,Nouvelle-Aquitaine
+464,B832,Grand Magasin,Grand Magasin,65.0,65.0,0.0,Nouvelle-Aquitaine
+465,B551,Centre Ville,Affili?,73.0,73.0,0.0,Bourgogne-Franche-Comt?
+466,B592,Centre Ville,Affili?,126.0,96.0,30.0,Bourgogne-Franche-Comt?
+467,B696,Centre Ville,Affili?,82.0,65.0,17.0,Bourgogne-Franche-Comt?
+468,B554,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Normandie
+469,B620,Centre Ville,Affili?,105.0,98.0,7.0,Normandie
+470,B797,Centre Ville,Succursale,153.0,98.0,55.0,Normandie
+471,B560,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Nouvelle-Aquitaine
+472,B581,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Nouvelle-Aquitaine
+473,B649,Centre Ville,Affili?,74.0,68.0,6.0,Nouvelle-Aquitaine
+474,B860,Centre Ville,Affili?,127.0,107.0,20.0,Nouvelle-Aquitaine
+475,B876,Centre Ville,Affili?,74.0,68.0,6.0,Nouvelle-Aquitaine
+476,B566,Centre Ville,Affili?,74.0,74.0,0.0,Auvergne-Rh?ne-Alpes
+477,B641,Centre Ville,Affili?,78.0,74.0,4.0,Auvergne-Rh?ne-Alpes
+478,B660,Centre Ville,Affili?,126.0,63.0,63.0,Auvergne-Rh?ne-Alpes
+479,B688,Centre Ville,Affili?,118.0,78.0,40.0,Auvergne-Rh?ne-Alpes
+480,B567,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Bourgogne-Franche-Comt?
+481,B617,Centre Ville,Affili?,116.0,86.0,30.0,Bourgogne-Franche-Comt?
+482,B661,Centre Ville,Affili?,87.0,74.0,13.0,Bourgogne-Franche-Comt?
+483,B574,Centre Ville,Affili?,50.0,50.0,0.0,Nouvelle-Aquitaine
+484,B608,Centre Ville,Affili?,118.0,118.0,0.0,Nouvelle-Aquitaine
+485,B655,Centre Ville,Affili?,65.0,48.0,17.0,Nouvelle-Aquitaine
+486,B659,Centre Ville,Affili?,94.0,74.0,20.0,Nouvelle-Aquitaine
+487,B578,Centre Ville,Affili?,90.0,90.0,0.0,Pays-de-la-Loire
+488,B671,Centre Ville,Affili?,125.0,95.0,30.0,Pays-de-la-Loire
+489,B579,Centre Commercial,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Pays-de-la-Loire
+490,B588,Centre Ville,Affili?,180.0,148.0,32.0,Pays-de-la-Loire
+491,B824,Grand Magasin,Grand Magasin,56.0,56.0,0.0,Pays-de-la-Loire
+492,B584,Centre Ville,Affili?,181.0,93.0,88.0,Auvergne-Rh?ne-Alpes
+493,B612,Centre Ville,Affili?,78.0,78.0,0.0,Auvergne-Rh?ne-Alpes
+494,B674,Centre Ville,Affili?,93.0,77.0,16.0,Auvergne-Rh?ne-Alpes
+495,B585,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Centre-Val de Loire
+496,B623,Centre Ville,Affili?,170.0,170.0,0.0,Centre-Val de Loire
+497,B631,Centre Ville,Affili?,98.0,98.0,0.0,Centre-Val de Loire
+498,B683,Centre Ville,Affili?,120.0,110.0,10.0,Centre-Val de Loire
+499,B759,Centre Commercial,Succursale,113.0,95.0,18.0,Centre-Val de Loire
+500,B768,Centre Ville,Succursale,150.0,126.0,24.0,Centre-Val de Loire
+501,B820,Grand Magasin,Grand Magasin,46.0,46.0,0.0,Centre-Val de Loire
+502,B597,Centre Ville,Affili?,100.23287671232876,83.35570469798658,16.897260273972602,Occitanie
+503,B701,Centre Ville,Succursale,385.0,130.0,255.0,Occitanie
+504,B825,Grand Magasin,Grand Magasin,53.0,53.0,0.0,Occitanie
+505,B602,Centre Ville,Affili?,102.0,92.0,10.0,Bourgogne-Franche-Comt?
+506,B613,Centre Ville,Affili?,105.0,105.0,0.0,Occitanie
+507,B744,Centre Commercial,Succursale,125.0,115.0,10.0,Occitanie
+508,B619,Centre Ville,Affili?,99.0,82.0,17.0,Nouvelle-Aquitaine
+509,B640,Centre Ville,Affili?,85.0,67.0,18.0,Nouvelle-Aquitaine
+510,B665,Centre Ville,Affili?,78.0,68.0,10.0,Nouvelle-Aquitaine
+511,B625,Centre Ville,Affili?,100.23287671232876,72.0,16.897260273972602,Hauts-de-France
+512,B729,Centre Ville,Succursale,260.0,72.0,188.0,Hauts-de-France
+513,B807,Grand Magasin,Grand Magasin,57.0,57.0,0.0,Hauts-de-France
+514,B629,Centre Ville,Affili?,170.0,80.0,90.0,Centre-Val de Loire
+515,B636,Centre Ville,Affili?,77.0,77.0,0.0,Pays-de-la-Loire
+516,B827,Grand Magasin,Grand Magasin,42.0,42.0,0.0,Pays-de-la-Loire
+517,B875,Centre Ville,Affili?,112.0,91.0,21.0,Pays-de-la-Loire
+518,B637,Centre Ville,Affili?,131.0,110.0,21.0,Provence-Alpes-C?te d'Azur
+519,B657,Centre Ville,Affili?,95.0,85.0,10.0,Centre-Val de Loire
+520,B663,Centre Ville,Affili?,54.0,54.0,0.0,Nouvelle-Aquitaine
+521,B697,Centre Ville,Affili?,102.0,68.0,34.0,Nouvelle-Aquitaine
+522,B829,Grand Magasin,Grand Magasin,79.0,79.0,0.0,Nouvelle-Aquitaine
+523,B675,Centre Ville,Affili?,99.0,74.0,25.0,Occitanie
+524,B679,Centre Ville,Affili?,124.0,85.0,39.0,Occitanie
+525,B676,Centre Ville,Affili?,57.0,57.0,0.0,Grand-Est
+526,B682,Centre Ville,Affili?,84.0,84.0,0.0,Centre-Val de Loire
+527,B711,Centre Ville,Succursale,194.0,142.0,52.0,Centre-Val de Loire
+528,B685,Centre Ville,Affili?,100.0,53.0,47.0,Auvergne-Rh?ne-Alpes
+529,B693,Centre Ville,Affili?,175.0,145.0,30.0,Corse
+530,B710,Centre Ville,Succursale,125.0,110.0,15.0,Corse
+531,B694,Centre Ville,Affili?,107.0,94.0,13.0,Bourgogne-Franche-Comt?
+532,B706,Centre Ville,Succursale,249.0,133.0,116.0,Auvergne-Rh?ne-Alpes
+533,B815,Grand Magasin,Grand Magasin,63.0,63.0,0.0,Nouvelle-Aquitaine
+534,B855,Centre Ville,Affili?,150.0,100.0,50.0,Nouvelle-Aquitaine
+535,B858,Centre Ville,Affili?,122.0,97.0,25.0,Grand-Est
+536,B859,Centre Ville,Affili?,85.0,63.0,22.0,Auvergne-Rh?ne-Alpes
+537,B861,Centre Commercial,Affili?,96.0,79.0,17.0,Occitanie
+538,B865,Centre Ville,Affili?,85.0,68.0,17.0,Occitanie
+539,B874,Centre Ville,Affili?,110.0,83.0,27.0,Grand-Est
